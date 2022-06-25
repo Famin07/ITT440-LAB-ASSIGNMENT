@@ -8,16 +8,9 @@ from multiprocessing import Process
 
 print(r"""
 -----------------------------------------
- __________
-| ________ |    Oleh Fakhrul Amin
-||12345678||	CS2514A
-|----------| 
-|[M|#|C][-]|
-|[7|8|9][+]|
-|[4|5|6][x]|
-|[1|2|3][%]|
-|[.|O|:][=]|
-|----------|
+             CALCULATOR 
+             By : FAKHRUL AMIN
+	     Group : CS2514A
 	     Server Version
 -----------------------------------------
                """)
